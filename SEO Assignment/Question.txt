@@ -1,0 +1,50 @@
+Q1. What is SEO and explain the importance of SEO?
+-> Search Engine Optimization (SEO) is a set of methods that improve a website's ranking in search engines. The goal of SEO is to increase a website's visibility and organic traffic. SEO is important for the success of any online business.
+SEO is important because it: 
+1.Creates a larger target audience
+2.Fulfills users' search needs
+3.Provides the best possible user experience
+4.Builds brand awareness
+5.Enhances paid search strategy
+6.Creates more effective pay-per-click campaigns
+7.Drives down cost per click
+
+
+Q2. Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title
+is descriptive and the meta description is concise.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Recipes: Delicious and Easy-to-Follow Cooking Ideas</title>
+    <meta name="description" content="Explore a world of culinary delights with our best recipes. From mouthwatering entrees to delightful desserts, discover simple, step-by-step cooking ideas for every occasion.">
+    <meta name="Rudra" content="Cooking Recipes" />
+    <!-- Other meta tags for SEO can be added here -->
+</head>
+<body>
+    <!-- Your website content goes here -->
+</body>
+</html>
+
+
+Q3. What are the Benefits of Using Meta Tags?
+->Meta tags are important because they impact how your site appears in the SERPs and how many people will be inclined to click through to your website. 
+They will therefore impact your traffic and engagement rates, which can impact your SEO and rankings.
+
+Q5. Define Favicon and give an illustrative example.
+-> The small graphical representation of the website you are visiting, which is visible on the left to the website’s name in the address bar, is called a favicon. It is a shortened expression for ‘favorite icon.’ 
+It helps you identify the visited website among the many open tabs. For example, The fancy P that appears on the tab left of the ProCreator website’s address bar is the favicon for us.
+Example -
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BookWorld - Your Online Bookstore</title>
+<!-- Favicon -->
+<link rel="icon" href="" type="image/x-icon">
+</head>
+<body>
+</body>
